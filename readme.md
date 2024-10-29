@@ -138,25 +138,6 @@ Watch the video above for a complete demonstration of EduConsultPro's features a
 * Standard Platform User license for end users
 
 
-## Author
-
-**MOKA MANOJ KUMAR**<br>
-Gayatri Vidya Parishad College of Engineering(A), Visakhapatnam<br>
-Roll Number: 21131A05C3<br>
-Email: 21131a05c3@gvpce.ac.in
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-* Gayatri Vidya Parishad College of Engineering
-* Salesforce Development Team
-* Project Mentors and Guides
-
-
 ---
 
 *Note: This README is part of an academic project demonstrating Salesforce CRM implementation for educational institutions.*
